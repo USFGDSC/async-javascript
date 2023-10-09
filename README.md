@@ -5,7 +5,7 @@ GDSC's Fall 23's Workshop Project to learn Async JavaScript.
 Before you start, please install the resources below: <br>
 <ul>
   <li>Visual Studio Code: https://code.visualstudio.com/download</li>
-  <li>GitHub Extention: Live Server</li>
+  <li>VSCode Extention: Live Server</li>
   <li>Git Bash: https://git-scm.com/downloads</li>
 </ul>
 
